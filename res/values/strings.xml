@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TodoManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search">Search</string>
+    <string name="new_list">New ToDo List</string>
+    <string name="new_item_name">Item name:</string>
+    <string name="list">List</string>
+    <string name="list_id">List id</string>
+    <string name="list_name">List name</string>
+    <string name="delete_list">Delete list</string>
+    <string name="new_task">New Task</string>
+    <string name="new_item">New Item</string>
+
+</resources>
